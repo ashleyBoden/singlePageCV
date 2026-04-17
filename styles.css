@@ -1,0 +1,33 @@
+* {
+    margin: 25px;
+    box-sizing: border-box;
+    line-height: 1;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    border: 3px solid black;
+    font-size: 1.2em;
+    padding-bottom: 50px;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+h3{
+    border-top: 5px solid black;
+    padding-top: 50px;
+}
+
+.title {
+    font-size: 1.1em;
+    color: green;
+    margin-bottom: 5px;
+}
+
+.university, .company {
+    color: blue;
+    font-size: 1.1em;
+}
